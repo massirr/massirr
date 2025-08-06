@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning https://learn.microsoft.com/en-gb/credentials/certifications/azure-fundamentals/?ns-enrollment-type=Collection&ns-enrollment-id=gxw7s3tjo7ezzq
-- Preparing for **Microsoft Azure AZ-900 Certification**
-- Completed **Auth0** workshop: Implemented RBAC and Gmail access via Google Developer Console
+- 🔭 I’m currently working on **AstroGathering**
+- 🌱 I’m currently **Microsoft Azure AZ-900 Certification**
+- 📫 How to reach me: massirr7@irakozedarlo.be
 
 ## Technical Skills
 
