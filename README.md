@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- Preparing for **Microsoft Azure AZ-900 Certification**
+- Completed **Auth0** workshop: Implemented RBAC and Gmail access via Google Developer Console
+
 ## Technical Skills
 
 **Languages:**  
@@ -23,9 +26,3 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-
-## Cloud Tools & More
-
-- Preparing for **Microsoft Azure AZ-900 Certification**
-- Completed **Auth0** workshop: Implemented RBAC and Gmail access via Google Developer Console
-- Experienced in debugging and identifying UX issues on multiple projects
