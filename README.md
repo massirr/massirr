@@ -1,13 +1,5 @@
 ## Hi there 👋
 
-## Relevant Courses
-- SQL & Databases
-- Python & Data Processing
-- C# & .NET
-- Web Development with Vue.js & Node.js
-- Computing Fundamentals
-- Networking
-
 ## Technical Skills
 
 **Languages:**  
@@ -17,7 +9,6 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
