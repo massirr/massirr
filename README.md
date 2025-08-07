@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on **AstroGathering**
-- 🌱 I’m currently **Microsoft Azure AZ-900 Certification**
+- 🌱 I’m currently learning **Microsoft Azure AZ-900 Certification**
 - 📫 How to reach me: massirr7@irakozedarlo.be
 
 ## Technical Skills
