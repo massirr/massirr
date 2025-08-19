@@ -58,9 +58,6 @@
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter Notebook"/><br/>
     </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br/>MySQL Workbench
-    </td>
   </tr>
 </table>
 
