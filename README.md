@@ -59,10 +59,16 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter Notebook"/><br/>
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Jupyter Notebook"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="googlecloud"/><br/>
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" alt="Jupyter Notebook"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" alt="raspberrypi"/><br/>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="40" height="40" alt="unrealengine"/><br/>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original-wordmark.svg" width="40" height="40" alt="zsh"/><br/>
     </td>
   </tr>
 </table>
