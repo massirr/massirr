@@ -64,12 +64,6 @@
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" alt="raspberrypi"/><br/>
     </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.png" width="40" height="40" alt="unrealengine"/><br/>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zsh/zsh-original-wordmark.png" width="40" height="40" alt="zsh"/><br/>
-    </td>
   </tr>
 </table>
 
