@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on **AstroGathering**
+- 🔭 I’m currently working on **PlayWright and MCP**
 - 🌱 I recently accured **Microsoft Azure AZ-900 Certification**
 - 📫 How to reach me: massirr7@irakozedarlo.be
 
