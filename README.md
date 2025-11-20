@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on **PlayWright and MCP**
-- 🌱 I recently accured **Microsoft Azure AZ-900 Certification**
+- 🌱 I was really Happy when I accured **Microsoft Azure AZ-900 Certification**
 - 📫 How to reach me: massirr7@irakozedarlo.be
 
 <h3 align="left">Skills & Tools</h3>
