@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **C# OOP**
 - 🌱 I was really Happy when I accured **Microsoft Azure AZ-900 Certification** as my first certification
-- 📫 How to reach me: massirr7@irakozedarlo.be
+- 📫 How to reach me: irakoze.darlo@outlook.com
 
 <h3 align="left">Skills & Tools</h3>
 
