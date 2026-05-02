@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 Proud to accured **Microsoft Azure AZ-900 Certification** as my first certification
+- 🌱 Proud to accure **Microsoft Azure AZ-900 Certification** as my first certification
 - 📫 How to reach me: irakoze.darlo@outlook.com
 
 <h3 align="left">Skills & Tools</h3>
