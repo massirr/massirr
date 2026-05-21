@@ -62,8 +62,6 @@
 
 ## Gamified Contributions
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/massirr/massirr/output/github-contribution-grid-snake.svg)
-
 ![github contribution grid snake dark animation](https://raw.githubusercontent.com/massirr/massirr/output/github-contribution-grid-snake-dark.svg)
 
 <!--
