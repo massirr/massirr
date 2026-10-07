@@ -60,6 +60,6 @@
   </tr>
 </table>
 
-## 🫪Contributions
+##Contributions
 
 ![github contribution grid snake dark animation](https://raw.githubusercontent.com/massirr/massirr/output/github-contribution-grid-snake-dark.svg)
