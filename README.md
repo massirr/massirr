@@ -65,4 +65,6 @@
 
 ## Switch to Dark Mode
 
+To turn on dark mode for GitHub, [open your appearance settings](https://github.com/settings/appearance).
+
 ![github contribution grid snake dark animation](https://raw.githubusercontent.com/massirr/massirr/output/github-contribution-grid-snake-dark.svg)
